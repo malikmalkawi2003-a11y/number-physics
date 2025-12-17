@@ -32,6 +32,8 @@ The work began with the simplest possible physical element: a single point. The 
 
 • **Phase Shifts:** Real and imaginary numbers appeared as two phase-shifted manifestations of the same underlying motion, coexisting at the same spatial location while differing only in phase, rather than as independent or perpendicular coordinate axes.
 
+• **Sequential Flow Structure:** Numbers accumulate along the generated number line as successive flows starting from an initial flow (A1).
+
 ## Visual Evidence
 
 The following section presents the visual and numerical outputs produced directly by the simulation. The materials are shown first as evidence, without interpretation, and are then interpreted conceptually in the subsection that follows.
