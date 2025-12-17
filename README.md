@@ -33,7 +33,9 @@ Initial visualizations from the Python simulation demonstrate the dynamic format
 - [Density Distribution & Curve (GIF)](assets/Density_Distribution_and_Curve.gif)
 - [Flow Phase Sequence (PNG)](assets/Flow_Phase_Sequence.png)
 - [A1 Density Window (-100,100) (CSV)](assets/A1_Density_Window(-100,100).csv)
-- [A1_Density_(-2_2) (PNG)](assets/A1_Density_(-2_2).png) 
+- [A1_Density_(-2_2) (PNG)](assets/A1_Density_(-2_2).png)
+- [A1_Density_(-5_5) (PNG)](assets/A1_Density_(-5_5).png)
+- [A1_Density_(-50_50) (PNG)](assets/A1_Density_(-50_50).png) 
 
 ## Scope
 
