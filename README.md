@@ -27,7 +27,9 @@ The work began with the simplest possible physical element: a single point. The 
 ### Key findings from the initial simulation:
 
 • **Emergent Number Line:** The system dynamically generated a continuous and ordered number line with two opposing directions and unbounded extensions, as a direct outcome of the dynamics of a single point (A), without imposing numerical coordinates or predefined axes.
+
 • **Physical Signs:** The positive and negative signs emerged as directional properties of motion along the generated line, rather than as symbolic or axiomatic conventions.
+
 • **Phase Shifts:** Real and imaginary numbers appeared as two phase-shifted manifestations of the same underlying motion, coexisting at the same spatial location while differing only in phase, rather than as independent or perpendicular coordinate axes.
 
 ## Visual Evidence
