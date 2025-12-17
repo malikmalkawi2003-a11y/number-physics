@@ -1,8 +1,12 @@
 # Number Physics — Exploratory Framework & Research Archive
 
-Number Physics is an exploratory theoretical framework that investigates whether numerical structures can arise from a single physical origin, rather than being treated as abstract axioms. It approaches numbers as emergent outcomes of motion, density, curvature, and phase—allowing mathematical behavior to unfold from fundamental physical dynamics.
+This repository documents a minimal physical system whose dynamics generate a continuous number line and a measurable, non-uniform numerical density, arising from the motion of the simplest possible mathematical element—a single point (A)—when placed within a precisely controlled reflective environment, without imposing numerical axioms, coordinate systems, or arithmetic rules in the construction of the system.
 
-This repository serves as a structured archive for the conceptual development of this framework and provides key insights into the project's direction and methodology. The work follows an independent research trajectory focused on rebuilding number theory from first principles.
+The outputs include explicit visual evidence and raw density data produced directly by the system itself, allowing examination of numerical structure at the level of observable behavior prior to interpretation.
+
+Number Physics is an exploratory theoretical framework that investigates how numerical structures may arise from physical dynamics rather than being treated as abstract axioms. It approaches numbers as emergent outcomes of motion, density, curvature, and phase.
+
+This repository serves as a structured research archive for the conceptual development of the framework, outlining its direction, methodology, and underlying motivations. The work follows an independent research trajectory focused on rebuilding number theory from first principles.
 
 ## Purpose
 
