@@ -29,7 +29,7 @@ The work began with the simplest possible physical element: a single point. The 
 ## Visual Evidence
 
 Initial visualizations from the Python simulation demonstrate the dynamic formation of the number line and the simulation of density patterns. These visual proofs support the initial hypotheses and can be explored further in the Visualization/Assets Folder or via links such as:  
-- [Number Line Formation (GIF)](assets/Physical_Number_Line_Generation.gif)
+- [Number Line Formation (GIF)](assets/Number_Line_Formation.gif)
 - [Density Distribution & Curve (GIF)](assets/Density_Distribution_and_Curve.gif)
 
 ## Scope
